@@ -13,5 +13,8 @@
     "url": "https://github.com/onja-org/scss-exercises/issues"
   },
   "homepage": "https://github.com/onja-org/scss-exercises#readme",
-  "main": "index.js"
+  "main": "index.js",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
 }
